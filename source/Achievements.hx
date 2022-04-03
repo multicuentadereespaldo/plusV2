@@ -32,10 +32,10 @@ class Achievements {
 		["Rewind the cassette",		    "Beat Week 10 on hard with no Misses.",				'week10_nomiss',	       false],
 		["RatTrap",		                "Beat Week 11 on hard with no Misses.",				'week11_nomiss',	       false],
 		["Smashin the star",		    "Beat Week 12 on hard with no Misses.",				'week12_nomiss',	       false],
-		["I'm going to fuck you",		"Beat Tutorial.",			                        'I'm going to fuck you',   false],
-		["Kassetto",	                "Beat city-funk.",			                        'Kassetto',                false],
-		["just like the old days",	    "Beat Shoot.",			                            'just like the old days',  false],
-		["who is the star now?",	    "Beat Ievan-polkka.",			                    'who is the star now?',    false]
+		["Im going to fuck you",		"Beat Tutorial.",			                        'Im going to fuck you',       false],
+		["Kassetto",	                    "Beat city-funk.",			                                'Kassetto',                    false],
+		["just like the old days",	    "Beat Shoot.",			                                'just like the old days',      false],
+		["who is the star now?",	    "Beat Ievan-polkka.",			                        'who is the star now?',        false]
 	];
 	public static var achievementsMap:Map<String, Bool> = new Map<String, Bool>();
 
