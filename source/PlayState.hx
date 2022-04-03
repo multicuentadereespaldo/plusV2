@@ -3181,7 +3181,7 @@ class PlayState extends MusicBeatState
 				'week5_nomiss', 'week6_nomiss', 'week7_nomiss', 'ur_bad',
 				'ur_good', 'hype', 'two_keys', 'toastie', 'debugger', 
 				'Darnell for President', 'No more bullets', 'Rewind the cassette', 'RatTrap', 
-				'Smashin the star', 'I'm going to fuck you', 'Kassetto', 'just like the old days',
+				'Smashin the star', 'Im going to fuck you', 'Kassetto', 'just like the old days',
 				'who is the star now?']);
 
 			if(achieve != null) {
@@ -4521,7 +4521,7 @@ class PlayState extends MusicBeatState
 						if(Paths.formatToSongPath(SONG.song) == '2Hot' && !usedPractice) {
 							unlock = true;
 						}
-					case 'I'm going to fuck you':
+					case 'Im going to fuck you':
 						if(Paths.formatToSongPath(SONG.song) == 'Tutorial' && !usedPractice) {
 							unlock = true;
 						}
