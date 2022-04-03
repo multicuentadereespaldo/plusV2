@@ -2368,7 +2368,7 @@ class PlayState extends MusicBeatState
 		iconP1.x = healthBar.x + (healthBar.width * (FlxMath.remapToRange(healthBar.percent, 0, 100, 100, 0) * 0.01)) + (150 * iconP1.scale.x - 150) / 2 - iconOffset;
 		iconP2.x = healthBar.x + (healthBar.width * (FlxMath.remapToRange(healthBar.percent, 0, 100, 100, 0) * 0.01)) - (150 * iconP2.scale.x) / 2 - iconOffset * 2;
 
-	if (health > 2)
+if (health > 2)
 			health = 2;
 		if (healthBar.percent < 20){
 			iconP1.animation.curAnim.curFrame = 1;
@@ -3181,7 +3181,7 @@ class PlayState extends MusicBeatState
 				'week5_nomiss', 'week6_nomiss', 'week7_nomiss', 'ur_bad',
 				'ur_good', 'hype', 'two_keys', 'toastie', 'debugger', 
 				'Darnell for President', 'No more bullets', 'Rewind the cassette', 'RatTrap', 
-				'Smashin the star', 'Im going to fuck you', 'Kassetto', 'just like the old days',
+				'Smashin the star', 'training passed', 'Kassetto', 'just like the old days',
 				'who is the star now?']);
 
 			if(achieve != null) {
@@ -4521,7 +4521,7 @@ class PlayState extends MusicBeatState
 						if(Paths.formatToSongPath(SONG.song) == '2Hot' && !usedPractice) {
 							unlock = true;
 						}
-					case 'Im going to fuck you':
+					case 'training passed':
 						if(Paths.formatToSongPath(SONG.song) == 'Tutorial' && !usedPractice) {
 							unlock = true;
 						}
