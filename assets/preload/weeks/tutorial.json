@@ -1,20 +1,31 @@
 {
 	"songs": [
-		["Tutorial", "gf", [165, 0, 77]]
+		[
+			"tutorial",
+			"gf",
+			[
+				200,
+				0,
+				40
+			]
+		]
 	],
-
+	"hideFreeplay": false,
+	"weekBackground": "how to funk",
+	"difficulties": "easy, normal, hard, erect",
 	"weekCharacters": [
 		"",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
-
-	"storyName": "",
-	"weekBefore": "tutorial",
-	"weekName": "Tutorial",
-	"startUnlocked": true,
-
+	"storyName": "how to fuck *funk",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }

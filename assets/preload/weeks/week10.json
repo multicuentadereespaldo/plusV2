@@ -1,0 +1,44 @@
+{
+	"storyName": "Kassetto",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "city",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"ukiyo",
+			"cg",
+			[
+				46,
+				0,
+				95
+			]
+		],
+		[
+			"earworm",
+			"cg",
+			[
+				46,
+				0,
+				95
+			]
+		],
+		[
+			"machina",
+			"cg",
+			[
+				46,
+				0,
+				95
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"cassette",
+		"bf",
+		"gf"
+	],
+	"weekName": "week9"
+}

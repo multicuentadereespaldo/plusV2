@@ -1,0 +1,49 @@
+{
+	"storyName": "hatsune miku expo 2022",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "expo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"hatsune",
+		"bf",
+		"gf miku"
+	],
+	"songs": [
+		[
+			"loid",
+			"miku",
+			[
+				46,
+				233,
+				233
+			]
+		],
+		[
+			"endurance",
+			"miku",
+			[
+				46,
+				233,
+				233
+			]
+		],
+		[
+			"voca",
+			"miku",
+			[
+				46,
+				233,
+				233
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week11"
+}

@@ -1,0 +1,30 @@
+{
+	"storyName": "somewhere in nevada",
+	"hideFreeplay": false,
+	"weekBackground": "hank",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"hankmenu",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"accelerant",
+			"hank",
+			[
+				35,
+				35,
+				55
+			]
+		]
+	],
+	"weekName": "week8"
+}

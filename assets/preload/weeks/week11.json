@@ -1,0 +1,57 @@
+{
+	"storyName": "ULTRA CHEDDER",
+	"hideFreeplay": false,
+	"weekBackground": "rat",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week9",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"ritz",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"CheeZ",
+			"ritz",
+			[
+				255,
+				175,
+				55
+			]
+		],
+		[
+			"Rat",
+			"ritz",
+			[
+				255,
+				175,
+				55
+			]
+		],
+		[
+			"Squeak",
+			"ritz",
+			[
+				255,
+				175,
+				55
+			]
+		],
+		[
+			"Ratbattle",
+			"ritz",
+			[
+				255,
+				175,
+				55
+			]
+		]
+	],
+	"weekName": "week 10"
+}
